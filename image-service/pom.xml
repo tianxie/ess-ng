@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>me.txie.ess</groupId>
-    <artifactId>image</artifactId>
+    <artifactId>image-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     

@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>me.txie.ess</groupId>
-    <artifactId>billing</artifactId>
+    <artifactId>billing-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     

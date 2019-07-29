@@ -10,7 +10,7 @@
     <name>Next Generation Easy Storage Service</name>
 
     <modules>
-        <module>object-storage-service</module>
+        <module>gateway</module>
         <module>metadata-service</module>
         <module>image-service</module>
         <module>pdf-service</module>
